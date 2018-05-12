@@ -1,0 +1,31 @@
+_repo: The-Ranger--Or-The-Fugitives-of-the-Border_28663
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 28663-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Ellis, Edward Sylvester
+    aliases:
+    - Ellis, Edward S. (Edward Sylvester)
+    - Ellis, E. S. (Edward Sylvester)
+    - Jayne, R. H.
+    birthdate: 1840
+    deathdate: 1916
+    gutenberg_agent_id: '2569'
+    url: http://www.gutenberg.org/2009/agents/2569
+description: ''
+gutenberg_issued: '2009-05-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28663'
+  lccn: '11013616'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Frontier and pioneer life -- Ohio -- Fiction'
+- !lcc 'PS'
+title: The Ranger; Or, The Fugitives of the Border
+url: http://www.gutenberg.org/ebooks/28663
